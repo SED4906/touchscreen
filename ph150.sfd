@@ -1,0 +1,5217 @@
+SplineFontDB: 3.2
+FontName: PH150
+FullName: PH150
+FamilyName: PH150
+Weight: Regular
+Copyright: Copyright (c) 2023, sed49
+UComments: "2023-8-31: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -5
+UnderlineWidth: 2
+Ascent: 45
+Descent: 11
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 454 -1839852526 15378]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1693533866
+ModificationTime: 1693537142
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 5
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 14
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 256
+
+StartChar: space
+Encoding: 32 32 0
+Width: 36
+VWidth: 1000
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 98 34 -9 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!"!!!!"!<W<%!%$B#aoDDA##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!+8OPjD#T[D_!!!!#!!1Ee2<=f<!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0000
+Encoding: 0 0 1
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 98 34 -9 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!"!!!!"!<W<%!%$B#aoDDA##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!+8OPjD#T[D_!!!!#!!1Ee2<=f<!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0001
+Encoding: 1 1 2
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 128 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!I8OPjD#T[E:J%u%P#neA&J-UbQS,jc=)a^,\_Z3)[GsDY0'!)H@0jYKlm;^UDz8OZBB
+Y!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0002
+Encoding: 2 2 3
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 128 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!I8OPjD#T[E:J%u%Pofk_*ruVgKC]d!82MD!9_Z3)SrdYPJ-!1r`O#\7i%2U)?z8OZBB
+Y!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0003
+Encoding: 3 3 4
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 123 4 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!1!<W<%!$#1tGlRgE##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[ERW*fV"5CYr^58(!r_#Qms+$bY^!!k;8!"f3&]G.KeMh4k-!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0004
+Encoding: 4 4 5
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 129 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!7!<W<%!7(<,=TAF%##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!J8OPjD#T[D_@pf9\IP?q'?iVDJ"!CSC!/1?$!$MUe+q@HP;%M4c!##)=-VQ1lh>dNU
+!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0005
+Encoding: 5 5 6
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 121 4 37 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!3!<W<%!)\o-EW?(>##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!B8OPjD#T[D_DdWPhrW<F:Cqp$=s8O2Q7"gtZ!JnN@!Md4:BC9UQ@/p9-!(fUS7'8ja
+JcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0006
+Encoding: 6 6 7
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 127 4 37 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!3!<W<%!)\o-EW?(>##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!H8OPjD#T[D_AmbT_p')(kIfMh.5="H4*s=>W?iVC,9)\o$r!*5&_@Tca:JtR#!!!!j
+78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0007
+Encoding: 7 7 8
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 8 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!)!<W<%!;\PMo`+sl##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[EZB4(_6rs')@/-5fZZj6E$rK4_m!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0008
+Encoding: 8 8 9
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 119 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!=!<W<%!*0GTA,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!@8OPjD#T[FMs8N'$1&):Z!<s,7^l4.Zil%2b<!*+8D+)bQe4P/i!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0009
+Encoding: 9 9 10
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 112 6 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[E:DdWR>KEMiI@":KR&[3edVRd'sef^Qlz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni000A
+Encoding: 10 10 11
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 126 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!=!<W<%!*0GTA,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!G8OPjD#T[FMs8N'$55^39!!<LVrX?WhIi_u_`\;D"3dbN?jT*VP80qNh?ss$8!!#SZ
+:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni000B
+Encoding: 11 11 12
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 127 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!H8OPjD#T[D_pqm(u2ILW]J`.">1BRp)2h4^k!XKf#5Tkjg=;CmZU('a)''KDt!!!!j
+78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni000C
+Encoding: 12 12 13
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 119 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!@8OPjD#T[E:J%u%P#neA&J-R)\`$&l_)&Rl0M%'Hj&.Gc08`!bR!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 14
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 132 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!7!<W<%!$O1PB)ho3##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!M8OPjD#T[D_@pf9\p'*3s^qfr"JLpn],T,1\&6QT*JH:T+J5HIP6NmPl$:+t9:^?,:
+z8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni000E
+Encoding: 14 14 15
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 136 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!7!<W<%!6PC.A,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!Q8OPjD#T[F5@:0'ZrW=:]@fo'qB0Za>k2B_K+r`64_nuIB+9$d%isu]1p]*\^E9[r=
+a%03uz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni000F
+Encoding: 15 15 16
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 123 4 37 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!3!<W<%!)\o-EW?(>##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[D_AmbT_@fm;%56+"_#pAlV#)"+8Lc@d3=?QZU8-oa:'QFZa!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0010
+Encoding: 16 16 17
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 128 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!7!<W<%!7(<,=TAF%##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!I8OPjD#T[D7^q]q<+2I(N!s9,5LS+_Xs+0A9(dZe^EJPNhHE^]U;OA>Wmt>*,z8OZBB
+Y!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0011
+Encoding: 17 17 18
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 128 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!7!<W<%!7(<,=TAF%##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!I8OPjD#T[D_0OOmS%j8e!7f4>FJB/djrdS;U+p],3%T*=*&(V*gW`'Vl'EE'<z8OZBB
+Y!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0012
+Encoding: 18 18 19
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 118 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!5!<W<%!0/0c'`\46##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[F5@:0'ZHSG;GJ,tHK,+'WD(8;Em$NL3W#`/[u*bbTS!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0013
+Encoding: 19 19 20
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FMn:?-]_uL!4M?,:g+i0;#:?_`Y!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0014
+Encoding: 20 20 21
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 112 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[EZs2+h)Igcn0`de)GGR,Mo_'fZ:9dK4Vz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0015
+Encoding: 21 21 22
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 124 10 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!)!!!!9!<W<%!<!]d;ZHdt##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[EZ@Ba02"2Y0`1]YBR+?U'd+>s`AZ2l+>%8\VVi)g941\Kjfz8OZBB
+Y!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0016
+Encoding: 22 22 23
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 102 4 17 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!)!<W<%!;#)QNrT.[##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[FMs+^Uo!W]r&&)#P.>.Xb7!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0017
+Encoding: 23 23 24
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 123 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!7!<W<%!7(<,=TAF%##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[D_@pf9\q$%D1IfMeH&PNf]$W.4mrVqH-rs&N[RLC8q<gYQ@!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0018
+Encoding: 24 24 25
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 112 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!5!<W<%!0/0c'`\46##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[F5@:0'ZHSG;GJ,tHK,".Lmb'F3(SseAoz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0019
+Encoding: 25 25 26
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 112 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!5!<W<%!0/0c'`\46##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[F5@:12jrBJ't7.q$3"P*VS;p#6V9C?V+z8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni001A
+Encoding: 26 26 27
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 4 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!+!<W<%!599JKE(uP##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[D_35>M\+$f&i*tX%._;YHcCC7P_k=/k[!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni001B
+Encoding: 27 27 28
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 112 4 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!+!<W<%!599JKE(uP##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[F5@:0'Z)_h-gLB32RCp5l!9`"u0/Y43Fz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni001C
+Encoding: 28 28 29
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!)!<W<%!;@t%Z2ak)##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[D7^qbJTrdS>NrrE*sJI#VuB68G"!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni001D
+Encoding: 29 29 30
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 115 0 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!+!<W<%!/#uqiW&rY##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!<8OPjD#T[F5iF-*o@2jY$rr;uu!slg>:jE&$Ad8X@i.dd&!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni001E
+Encoding: 30 30 31
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 123 4 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!/!<W<%!%!B7OoPI^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[D_AmbT_p'))f56+%@%m\58!smHW!29FBJ-Z.j'b0bUagUR:!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni001F
+Encoding: 31 31 32
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 123 4 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!/!<W<%!%!B7OoPI^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[FMs+^W2l@4>Gr<EmsIfMh5#=+*Y!JHgXJ-Z.-j:1\uFHUA=!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 33
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 14 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!5!<W<%!0HFTV>pSr##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FM^jm@Z!!-%7!+^9biEN\!eGoRL!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+14 9 m 29
+ 22 9 l 25
+ 22 1 l 25
+ 14 1 l 25
+ 14 9 l 29
+14 41 m 25
+ 22 41 l 25
+ 22 13 l 25
+ 14 13 l 25
+ 14 41 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 34
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 102 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!'!<W<%!6lYR_>jQ9##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[FMn::TT!<?\/$UO:j:1jP,!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+22 29 m 29
+ 22 41 l 25
+ 30 41 l 25
+ 30 29 l 25
+ 22 29 l 29
+6 29 m 25
+ 6 41 l 25
+ 14 41 l 25
+ 14 29 l 25
+ 6 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 35
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 123 4 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!/!<W<%!%!B7OoPI^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[D_k$\662@0r#rrYS##pAm?!sg22JC%^/+9DPIP7$K.MQI-a!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+SplineSet
+23 21 m 29
+ 14 21 l 1
+ 13 17 l 1
+ 22 17 l 5
+ 23 21 l 29
+14 25 m 25
+ 16 33 l 1
+ 20 33 l 25
+ 18 25 l 25
+ 26 25 l 25
+ 28 33 l 25
+ 32 33 l 25
+ 30 25 l 1
+ 32 25 l 1
+ 31 21 l 1
+ 27 21 l 1
+ 26 17 l 1
+ 29 17 l 1
+ 28 13 l 1
+ 22 13 l 25
+ 20 5 l 25
+ 16 5 l 25
+ 18 13 l 25
+ 10 13 l 25
+ 8 5 l 25
+ 4 5 l 25
+ 6 13 l 25
+ 4 13 l 1
+ 5 17 l 1
+ 9 17 l 1
+ 10 21 l 1
+ 7 21 l 25
+ 8 25 l 1
+ 14 25 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 36
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 124 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[D_AmbT_q[XfkQj8Qe(_4GOR!BP,#U0XR$.]7[J,Kd%RQMH$z8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+20 21 m 29
+ 20 9 l 25
+ 28 9 l 25
+ 28 21 l 25
+ 20 21 l 29
+16 25 m 25
+ 16 33 l 25
+ 8 33 l 25
+ 8 25 l 25
+ 16 25 l 25
+32 29 m 25
+ 28 29 l 25
+ 28 33 l 25
+ 20 33 l 25
+ 20 25 l 25
+ 28 25 l 25
+ 32 21 l 25
+ 32 9 l 25
+ 28 5 l 25
+ 20 5 l 25
+ 20 1 l 25
+ 16 1 l 25
+ 16 5 l 25
+ 8 5 l 25
+ 4 9 l 25
+ 4 13 l 25
+ 8 13 l 25
+ 8 9 l 25
+ 16 9 l 25
+ 16 21 l 25
+ 8 21 l 25
+ 4 25 l 25
+ 4 33 l 25
+ 8 37 l 25
+ 16 37 l 25
+ 16 41 l 25
+ 20 41 l 25
+ 20 37 l 25
+ 28 37 l 25
+ 32 33 l 25
+ 32 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: percent
+Encoding: 37 37 37
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 133 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!N8OPjD#T[ER872Fl1C$1DZ2oWG)*iueN-H0VJ4Ka#$pH?F;;quq3q*0+!1Q4`VoI1m
+M?!VV!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+28 9 m 29
+ 24 9 l 25
+ 24 5 l 25
+ 28 5 l 25
+ 28 9 l 29
+20 9 m 25
+ 22 13 l 25
+ 30 13 l 25
+ 32 9 l 25
+ 32 5 l 25
+ 30 1 l 25
+ 22 1 l 25
+ 20 5 l 25
+ 20 9 l 25
+14 37 m 25
+ 10 37 l 25
+ 10 33 l 25
+ 14 33 l 25
+ 14 37 l 25
+6 33 m 25
+ 6 37 l 25
+ 8 41 l 25
+ 16 41 l 25
+ 18 37 l 25
+ 18 33 l 25
+ 16 29 l 25
+ 8 29 l 25
+ 6 33 l 25
+6 1 m 25
+ 24 41 l 25
+ 28 41 l 25
+ 10 1 l 25
+ 6 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 38
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 129 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!J8OPjD#T[E:@pf9\@k`M=Go.BK#['90"p5DWp]*bg(_.NnYVuP+!5'Qaamrh]M?!VV
+!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+18 33 m 25
+ 18 37 l 25
+ 14 37 l 25
+ 14 33 l 25
+ 18 33 l 25
+22 5 m 25
+ 22 13 l 25
+ 18 21 l 25
+ 14 21 l 25
+ 10 13 l 25
+ 10 5 l 25
+ 22 5 l 25
+12 29 m 1
+ 10 33 l 1
+ 10 37 l 25
+ 12 41 l 25
+ 20 41 l 25
+ 22 37 l 25
+ 22 33 l 1
+ 20 29 l 1
+ 18 29 l 5
+ 26 13 l 1
+ 28 13 l 1
+ 28 17 l 25
+ 32 17 l 25
+ 30 9 l 25
+ 26 9 l 25
+ 30 5 l 25
+ 30 1 l 25
+ 26 1 l 25
+ 26 5 l 25
+ 22 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 6 13 l 1
+ 14 29 l 1
+ 12 29 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 39
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 109 12 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!&!!!!)!<W<%!"2#hGQ7^D##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[E:@$"bM!5\j]4MYn9!"JE!dC1F@9E5%m!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+12 25 m 29
+ 18 41 l 25
+ 22 41 l 25
+ 16 25 l 25
+ 12 25 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 40
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 10 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!5!<W<%!.3S1V#UJq##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[D_@pif.!($c19E;p3:^CN_`'A?.2#qZQ"h?j3Xq:X6!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+20 37 m 29
+ 14 25 l 25
+ 14 17 l 25
+ 20 5 l 25
+ 24 5 l 1
+ 24 1 l 25
+ 20 1 l 25
+ 16 5 l 25
+ 10 17 l 25
+ 10 25 l 25
+ 16 37 l 25
+ 20 41 l 25
+ 24 41 l 25
+ 24 37 l 1
+ 20 37 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 41
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 12 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!(!!!!5!<W<%!.3S1V#UJq##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[D7^i4h?!!jm$O9Z'ETFf$GM1O`<C&h@,"DQc6?GumE!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+12 41 m 29
+ 16 41 l 25
+ 20 37 l 25
+ 26 25 l 25
+ 26 17 l 25
+ 20 5 l 25
+ 16 1 l 25
+ 12 1 l 25
+ 12 5 l 25
+ 16 5 l 25
+ 22 17 l 25
+ 22 25 l 25
+ 16 37 l 25
+ 12 37 l 25
+ 12 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 42
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 112 6 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!+!<W<%!4q/A\GuU0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[D/35>M^r!X_?rrWNmfO/\!FR]Ujqi#U2z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+14 21 m 29
+ 10 29 l 25
+ 14 29 l 25
+ 18 21 l 25
+ 22 29 l 25
+ 26 29 l 25
+ 22 21 l 25
+ 30 21 l 25
+ 30 17 l 25
+ 22 17 l 25
+ 26 9 l 25
+ 22 9 l 25
+ 18 17 l 25
+ 14 9 l 25
+ 10 9 l 25
+ 14 17 l 25
+ 6 17 l 25
+ 6 21 l 25
+ 14 21 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: plus
+Encoding: 43 43 43
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 110 6 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!+!<W<%!4q/A\GuU0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!78OPjD#T[D_@pjh^ruW).#gR!k!!#.u":kOOX>9hV!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+16 21 m 29
+ 16 29 l 25
+ 20 29 l 25
+ 20 21 l 25
+ 30 21 l 25
+ 30 17 l 25
+ 20 17 l 25
+ 20 9 l 25
+ 16 9 l 25
+ 16 17 l 25
+ 6 17 l 25
+ 6 21 l 25
+ 16 21 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: comma
+Encoding: 44 44 44
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 107 14 9 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!)!<W<%!9F+&7K<Dg##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[FM^]8oi$jI+H$jcnfcii;u=)c^j!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+14 9 m 29
+ 22 9 l 25
+ 22 1 l 25
+ 20 -7 l 25
+ 16 -7 l 25
+ 18 1 l 25
+ 14 1 l 25
+ 14 9 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 45
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 102 6 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!#!<W<%!*6A.e,TIK##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[FMs+0//#65.8"5cc"IQ%6,!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+6 21 m 29
+ 30 21 l 25
+ 30 17 l 25
+ 6 17 l 25
+ 6 21 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: period
+Encoding: 46 46 46
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 100 14 9 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!%!<W<%!0]VU4TGH^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!-8OPjD#T[FM^]9)h%gW9R*F5!hz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+14 1 m 29
+ 14 9 l 25
+ 22 9 l 25
+ 22 1 l 25
+ 14 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: slash
+Encoding: 47 47 47
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 127 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!,!!!!5!<W<%!+Fke.f]PL##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!H8OPjD#T[D_872Fk"!GP7!(+m<+N+IR4:DW`,QU@=$k,CSU`9BKJd+@OI_ESu!!!!j
+78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+8 1 m 29
+ 26 41 l 25
+ 30 41 l 25
+ 12 1 l 25
+ 8 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: zero
+Encoding: 48 48 48
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 113 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[E:DdWR>KEMiI?pGPp<.]5n!;Q'q]jlD_VuQet!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+24 37 m 29
+ 12 37 l 25
+ 10 33 l 25
+ 10 9 l 25
+ 12 5 l 25
+ 24 5 l 25
+ 26 9 l 25
+ 26 33 l 25
+ 24 37 l 29
+12 41 m 25
+ 24 41 l 25
+ 28 37 l 25
+ 30 33 l 25
+ 30 9 l 25
+ 28 5 l 25
+ 24 1 l 25
+ 12 1 l 25
+ 8 5 l 25
+ 6 9 l 25
+ 6 33 l 25
+ 8 37 l 25
+ 12 41 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: one
+Encoding: 49 49 49
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 109 12 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!'!!!!5!<W<%!0eJ[RfEEg##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[F5@GkRu!Q$WX#\)hE!)0<md0g322uipY!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+20 1 m 1
+ 20 35 l 1
+ 15 30 l 5
+ 12 33 l 1
+ 20 41 l 25
+ 24 41 l 25
+ 24 1 l 25
+ 20 1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: two
+Encoding: 50 50 50
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 131 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!L8OPjD#T[E:DdWR>KEMiI?iWM%#p@1=!(&dV+9WC2#r<Q/!29E7J-Z-Tp^Hn'V/]!*
+!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+30 1 m 29
+ 6 1 l 25
+ 6 9 l 25
+ 10 17 l 25
+ 14 21 l 1
+ 20 23 l 1
+ 24 25 l 1
+ 26 29 l 1
+ 26 33 l 1
+ 24 37 l 1
+ 12 37 l 1
+ 10 33 l 25
+ 10 29 l 25
+ 6 29 l 25
+ 6 33 l 25
+ 8 37 l 25
+ 12 41 l 25
+ 24 41 l 25
+ 28 37 l 25
+ 30 33 l 25
+ 30 29 l 25
+ 28 25 l 1
+ 24 21 l 1
+ 18 19 l 1
+ 14 17 l 1
+ 10 9 l 9
+ 10 5 l 25
+ 30 5 l 25
+ 30 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: three
+Encoding: 51 51 51
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 128 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!I8OPjD#T[EZ5JR7e#7NkR5m!!q$j-_5"!@_WJ.P*g9ELI[&QfhL6tQe,0'Sdkz8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+6 33 m 29
+ 6 37 l 25
+ 10 41 l 25
+ 26 41 l 25
+ 30 37 l 25
+ 32 33 l 25
+ 32 29 l 25
+ 30 25 l 25
+ 28 23 l 25
+ 30 21 l 25
+ 32 17 l 25
+ 32 9 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 6 9 l 25
+ 10 9 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 28 9 l 25
+ 28 17 l 25
+ 26 21 l 25
+ 14 21 l 25
+ 14 25 l 25
+ 26 25 l 25
+ 28 29 l 25
+ 28 33 l 25
+ 26 37 l 25
+ 10 37 l 25
+ 10 33 l 25
+ 6 33 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: four
+Encoding: 52 52 52
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 124 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[D_0OOmS%j8f,!(&eUA731Q70!:;&6'*,-%Z7"/HlG\2a+jez8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+14 21 m 5
+ 24 21 l 1
+ 24 31 l 1
+ 14 21 l 5
+28 1 m 25
+ 24 1 l 25
+ 24 17 l 25
+ 4 17 l 25
+ 28 41 l 25
+ 28 21 l 25
+ 32 21 l 25
+ 32 17 l 25
+ 28 17 l 25
+ 28 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: five
+Encoding: 53 53 53
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 126 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!G8OPjD#T[FMs+(3,%PT$PrrWZp`*`R7&e#2Ik^W[9&D8-*+oip'%kE5t(M*RH!!#SZ
+:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+6 41 m 29
+ 30 41 l 25
+ 30 37 l 25
+ 10 37 l 25
+ 10 29 l 25
+ 26 29 l 25
+ 30 25 l 25
+ 32 21 l 25
+ 32 9 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 6 9 l 25
+ 10 9 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 28 9 l 25
+ 28 21 l 25
+ 26 25 l 25
+ 6 25 l 25
+ 6 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: six
+Encoding: 54 54 54
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 121 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!B8OPjD#T[E:J%u%P#neA&J,t6#Ip`8N"$GcQU(XO8!#4B(KBH>a\,ZL/!(fUS7'8ja
+JcGcN
+EndImage2
+Fore
+SplineSet
+28 21 m 25
+ 8 21 l 25
+ 8 9 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 28 9 l 25
+ 28 21 l 25
+30 33 m 29
+ 26 33 l 25
+ 26 37 l 25
+ 10 37 l 25
+ 8 33 l 25
+ 8 25 l 25
+ 28 25 l 25
+ 32 21 l 25
+ 32 9 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 4 9 l 25
+ 4 33 l 25
+ 6 37 l 25
+ 10 41 l 25
+ 26 41 l 25
+ 30 37 l 25
+ 30 33 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: seven
+Encoding: 55 55 55
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 124 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[FMs+(3,(_XXJ!!C+>#0$iY@V,T`2DF-!@).KsEr$$)IMCkEz8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+6 41 m 29
+ 30 41 l 25
+ 18 17 l 25
+ 18 1 l 25
+ 14 1 l 25
+ 14 17 l 25
+ 24 37 l 25
+ 6 37 l 25
+ 6 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: eight
+Encoding: 56 56 56
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 114 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!;8OPjD#T[E:J%u%P#neA&J-U`MCeSgW=TG_D%YJnEobRT.!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+7 23 m 29
+ 4 29 l 25
+ 4 33 l 25
+ 6 37 l 25
+ 10 41 l 25
+ 26 41 l 25
+ 30 37 l 25
+ 32 33 l 25
+ 32 29 l 25
+ 29 23 l 25
+ 32 17 l 25
+ 32 9 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 4 9 l 25
+ 4 17 l 25
+ 7 23 l 29
+10 21 m 25
+ 8 17 l 25
+ 8 9 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 28 9 l 25
+ 28 17 l 25
+ 26 21 l 25
+ 10 21 l 25
+10 25 m 25
+ 26 25 l 25
+ 28 29 l 25
+ 28 33 l 25
+ 26 37 l 25
+ 10 37 l 25
+ 8 33 l 25
+ 8 29 l 25
+ 10 25 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: nine
+Encoding: 57 57 57
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 121 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!B8OPjD#T[E:J%u%P#neA&J-R+Js'YmO"s*o!W!)Df!3ia<90uL\.KBGK!(fUS7'8ja
+JcGcN
+EndImage2
+Fore
+SplineSet
+8 21 m 25
+ 28 21 l 25
+ 28 33 l 25
+ 26 37 l 25
+ 10 37 l 25
+ 8 33 l 25
+ 8 21 l 25
+6 9 m 1
+ 10 9 l 25
+ 14 5 l 25
+ 26 5 l 25
+ 28 9 l 25
+ 28 17 l 25
+ 8 17 l 25
+ 4 21 l 25
+ 4 33 l 25
+ 6 37 l 25
+ 10 41 l 25
+ 26 41 l 25
+ 30 37 l 25
+ 32 33 l 25
+ 32 9 l 25
+ 30 5 l 25
+ 26 1 l 1
+ 12 1 l 1
+ 6 7 l 1
+ 6 9 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: colon
+Encoding: 58 58 58
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 14 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!/!<W<%!&C?'>6"X'##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FM^]8oo8,t+D!,3DXJY#Hhci=%G!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+14 9 m 29
+ 22 9 l 25
+ 22 1 l 25
+ 14 1 l 25
+ 14 9 l 29
+14 21 m 25
+ 14 29 l 25
+ 22 29 l 25
+ 22 21 l 25
+ 14 21 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 59
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 112 14 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!3!<W<%!(O3[])Vg2##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[FM^]8oo8,suK^gOs>^lSNrW8n5X0nsikz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+14 9 m 29
+ 22 9 l 25
+ 22 1 l 25
+ 20 -7 l 25
+ 16 -7 l 25
+ 18 1 l 25
+ 14 1 l 25
+ 14 9 l 29
+14 29 m 25
+ 22 29 l 25
+ 22 21 l 25
+ 14 21 l 25
+ 14 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: less
+Encoding: 60 60 60
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 123 8 37 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!3!<W<%!*FO&#QOi)##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[D_35>M^bR>W4"%EJ'$pXq2"u1W6+q@HPQ2goL#R,WIr7`:n!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+SplineSet
+27 34 m 1
+ 12 19 l 5
+ 27 4 l 1
+ 24 1 l 1
+ 6 19 l 1
+ 24 37 l 1
+ 27 34 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: equal
+Encoding: 61 61 61
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!'!<W<%!6lYR_>jQ9##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMs+(3,+99Ui!(G*:]b9D4!<<*"!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+6 17 m 29
+ 30 17 l 25
+ 30 13 l 25
+ 6 13 l 25
+ 6 17 l 29
+6 25 m 25
+ 30 25 l 25
+ 30 21 l 25
+ 6 21 l 25
+ 6 25 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: greater
+Encoding: 62 62 62
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 121 8 37 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!3!<W<%!*FO&#QOi)##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!B8OPjD#T[D7^q]q<#%5Be^]6dH?j%**!+eO9+_ng0!0r?DI>Ae+3<0$Z!(fUS7'8ja
+JcGcN
+EndImage2
+Fore
+SplineSet
+12 37 m 1
+ 30 19 l 25
+ 12 1 l 1
+ 9 4 l 5
+ 24 19 l 1
+ 9 34 l 1
+ 12 37 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: question
+Encoding: 63 63 63
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 124 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[E:DdWR>KEMiI@":KN#n0);fDn6S$jacO#%/#CB%7/ur\I1Kz8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+16 9 m 1
+ 16 15 l 1
+ 20 17 l 1
+ 24 21 l 1
+ 26 25 l 25
+ 26 33 l 1
+ 22 37 l 5
+ 14 37 l 1
+ 10 33 l 1
+ 10 25 l 25
+ 6 25 l 25
+ 6 33 l 25
+ 8 37 l 25
+ 12 41 l 25
+ 24 41 l 25
+ 28 37 l 25
+ 30 33 l 25
+ 30 25 l 1
+ 28 19 l 1
+ 24 15 l 1
+ 20 13 l 1
+ 20 9 l 25
+ 16 9 l 1
+16 5 m 25
+ 20 5 l 25
+ 20 1 l 25
+ 16 1 l 25
+ 16 5 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: at
+Encoding: 64 64 64
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 132 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!M8OPjD#T[F55JR7e"pQ37+9=faGsLT;)$E!:^]6b/$m9'\7f4>Fpce`YkX,nYd#kC\
+z8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+20 17 m 25
+ 20 25 l 25
+ 16 25 l 25
+ 16 17 l 25
+ 20 17 l 25
+20 13 m 5
+ 16 13 l 1
+ 12 17 l 25
+ 12 25 l 25
+ 16 29 l 25
+ 20 29 l 25
+ 24 25 l 25
+ 24 21 l 25
+ 28 17 l 25
+ 28 29 l 25
+ 24 37 l 25
+ 12 37 l 25
+ 8 29 l 25
+ 8 13 l 25
+ 12 5 l 25
+ 28 5 l 25
+ 28 1 l 25
+ 12 1 l 25
+ 8 5 l 25
+ 4 13 l 25
+ 4 29 l 25
+ 8 37 l 25
+ 12 41 l 25
+ 24 41 l 25
+ 28 37 l 25
+ 32 29 l 25
+ 32 17 l 25
+ 28 13 l 1
+ 24 17 l 1
+ 20 13 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: A
+Encoding: 65 65 65
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 124 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[D_DdWPhM$+AF0E@dL#nT/5K0]J:0E;]j#ac&$PALi$YpHEIz8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+28 17 m 29
+ 28 25 l 25
+ 22 37 l 25
+ 14 37 l 25
+ 8 25 l 25
+ 8 17 l 25
+ 28 17 l 29
+4 1 m 25
+ 4 25 l 25
+ 10 37 l 25
+ 14 41 l 25
+ 22 41 l 25
+ 26 37 l 25
+ 32 25 l 25
+ 32 1 l 25
+ 28 1 l 25
+ 28 13 l 25
+ 8 13 l 25
+ 8 1 l 25
+ 4 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: B
+Encoding: 66 66 66
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 111 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[FMs+(3,%e-,9>iH<[?s*K=!>`SRL.Wrr!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+28 25 m 25
+ 28 37 l 25
+ 8 37 l 25
+ 8 25 l 25
+ 28 25 l 25
+28 5 m 25
+ 28 21 l 25
+ 8 21 l 25
+ 8 5 l 25
+ 28 5 l 25
+4 1 m 25
+ 4 41 l 25
+ 28 41 l 25
+ 32 37 l 25
+ 32 25 l 1
+ 30 23 l 29
+ 32 21 l 1
+ 32 5 l 25
+ 28 1 l 25
+ 4 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: C
+Encoding: 67 67 67
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[F55JR7e"pQ37+9=e6(pG6@/4:dd(BAj!%%X+I6NR5f!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+30 29 m 25
+ 26 29 l 25
+ 26 33 l 25
+ 24 37 l 25
+ 12 37 l 25
+ 8 29 l 25
+ 8 13 l 25
+ 12 5 l 25
+ 24 5 l 1
+ 26 9 l 25
+ 26 13 l 1
+ 30 13 l 25
+ 30 9 l 25
+ 28 5 l 25
+ 24 1 l 25
+ 12 1 l 25
+ 8 5 l 25
+ 4 13 l 25
+ 4 29 l 25
+ 8 37 l 25
+ 12 41 l 25
+ 24 41 l 25
+ 28 37 l 25
+ 30 33 l 25
+ 30 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: D
+Encoding: 68 68 68
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 114 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!;8OPjD#T[FMIt.QU%N'^.&&SF"#cnZ?$NOfV'MX^#Ceas1!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+8 5 m 29
+ 24 5 l 25
+ 28 9 l 25
+ 28 33 l 25
+ 24 37 l 25
+ 8 37 l 25
+ 8 5 l 29
+4 1 m 25
+ 4 41 l 25
+ 24 41 l 25
+ 32 33 l 25
+ 32 9 l 25
+ 24 1 l 25
+ 4 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: E
+Encoding: 69 69 69
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 116 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!=8OPjD#T[FMs+^W2%PXQNrs'Bk#ZD]e!nIMTSOF:ZVOnXlz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+4 1 m 29
+ 4 41 l 25
+ 32 41 l 25
+ 32 37 l 25
+ 8 37 l 25
+ 8 25 l 25
+ 24 25 l 25
+ 24 21 l 25
+ 8 21 l 25
+ 8 5 l 25
+ 32 5 l 25
+ 32 1 l 25
+ 4 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: F
+Encoding: 70 70 70
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 114 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!;8OPjD#T[FMs+^W2%PXQNrs'Bk#ZD^7"9=a\'6R.TF>X$u!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+4 1 m 29
+ 4 41 l 25
+ 32 41 l 25
+ 32 37 l 25
+ 8 37 l 25
+ 8 25 l 25
+ 24 25 l 25
+ 24 21 l 25
+ 8 21 l 25
+ 8 1 l 25
+ 4 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: G
+Encoding: 71 71 71
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 125 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!F8OPjD#T[F55JR7e"pQ37+9=e6(m*)dL'']Z"%!Q%Le=m(!4(8fXT57O%fcS0!(fUS
+7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+20 21 m 29
+ 32 21 l 25
+ 32 13 l 25
+ 28 5 l 25
+ 24 1 l 25
+ 12 1 l 25
+ 8 5 l 25
+ 4 13 l 25
+ 4 29 l 25
+ 8 37 l 25
+ 12 41 l 25
+ 24 41 l 25
+ 28 37 l 25
+ 30 33 l 25
+ 30 29 l 25
+ 26 29 l 25
+ 26 33 l 25
+ 24 37 l 25
+ 12 37 l 25
+ 8 29 l 25
+ 8 13 l 25
+ 12 5 l 25
+ 24 5 l 25
+ 28 13 l 25
+ 28 17 l 25
+ 20 17 l 25
+ 20 21 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: H
+Encoding: 72 72 72
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 110 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!78OPjD#T[D7^r([;rVsb86s-9nJcIRp&l4W0Y=\cp!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+4 41 m 29
+ 8 41 l 25
+ 8 25 l 25
+ 28 25 l 25
+ 28 41 l 25
+ 32 41 l 25
+ 32 1 l 25
+ 28 1 l 25
+ 28 21 l 25
+ 8 21 l 25
+ 8 1 l 25
+ 4 1 l 25
+ 4 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: I
+Encoding: 73 73 73
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 107 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!5!<W<%!0/0c'`\46##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[FMIt.QUGSit=?sNcs+pYdd9)J&W!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+8 41 m 29
+ 28 41 l 25
+ 28 37 l 25
+ 20 37 l 25
+ 20 5 l 25
+ 28 5 l 25
+ 28 1 l 25
+ 8 1 l 25
+ 8 5 l 25
+ 16 5 l 25
+ 16 37 l 25
+ 8 37 l 25
+ 8 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: J
+Encoding: 74 74 74
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 113 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[D_0OQ"9*ACk$U4`X\P&C=E!0Yk;56Um,7K<Dg!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+26 41 m 29
+ 30 41 l 25
+ 30 9 l 25
+ 28 5 l 25
+ 24 1 l 25
+ 12 1 l 25
+ 8 5 l 25
+ 6 9 l 25
+ 6 13 l 25
+ 10 13 l 25
+ 10 9 l 25
+ 12 5 l 25
+ 24 5 l 25
+ 26 9 l 25
+ 26 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: K
+Encoding: 75 75 75
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 127 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!H8OPjD#T[D7@))b/#=.K,!skFuUCRbA5QkL_`$&lgl?O3Vn,NGj?k[Z'C(0b8!!!!j
+78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+4 41 m 25
+ 8 41 l 25
+ 8 25 l 1
+ 24 41 l 1
+ 27 38 l 1
+ 12 23 l 5
+ 31 4 l 1
+ 28 1 l 1
+ 8 21 l 25
+ 8 1 l 25
+ 4 1 l 25
+ 4 41 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: L
+Encoding: 76 76 76
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 107 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[D7^q`2>qYu?0ruV6fE"R;eZFMmo!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+4 41 m 29
+ 8 41 l 25
+ 8 5 l 25
+ 32 5 l 25
+ 32 1 l 25
+ 4 1 l 25
+ 4 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: M
+Encoding: 77 77 77
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 116 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!=8OPjD#T[D7^r$.?+)F4+bS^sQb_&.l=WA[e<.#<YAEiZKz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+4 1 m 29
+ 4 41 l 29
+ 8 41 l 29
+ 18 31 l 29
+ 28 41 l 29
+ 32 41 l 29
+ 32 1 l 29
+ 28 1 l 29
+ 28 35 l 29
+ 20 27 l 29
+ 20 21 l 29
+ 16 21 l 29
+ 16 27 l 29
+ 8 35 l 29
+ 8 1 l 29
+ 4 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: N
+Encoding: 78 78 78
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 125 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!F8OPjD#T[D7^r$.B+*\WQkR8:Kk$\7a")#EjL>`+D+fPUN!@iR3:[GAXQiI*d!(fUS
+7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+4 1 m 29
+ 4 41 l 25
+ 8 41 l 25
+ 12 33 l 25
+ 28 17 l 25
+ 28 41 l 25
+ 32 41 l 25
+ 32 1 l 25
+ 28 1 l 25
+ 24 13 l 25
+ 8 29 l 25
+ 8 1 l 25
+ 4 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: O
+Encoding: 79 79 79
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 107 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[EZs1eV&#C&d,?sNaE+;'%![cRPi!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+28 37 m 29
+ 8 37 l 25
+ 8 5 l 25
+ 28 5 l 25
+ 28 37 l 29
+4 37 m 25
+ 8 41 l 25
+ 28 41 l 25
+ 32 37 l 25
+ 32 5 l 25
+ 28 1 l 25
+ 8 1 l 25
+ 4 5 l 25
+ 4 37 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: P
+Encoding: 80 80 80
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 112 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[FMs+(3,%e-,9W&Oms!LsDqWX':BkH5#Kz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+8 25 m 29
+ 28 25 l 25
+ 28 37 l 25
+ 8 37 l 25
+ 8 25 l 29
+4 1 m 25
+ 4 41 l 25
+ 28 41 l 25
+ 32 37 l 25
+ 32 25 l 25
+ 28 21 l 25
+ 8 21 l 25
+ 8 1 l 25
+ 4 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Q
+Encoding: 81 81 81
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 121 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!7!<W<%!6PC.A,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!B8OPjD#T[EZs1eV&#C$NL_`S>mFPmQ56$+jN0JMtr!0E*P)[K]3rr<$!!(fUS7'8ja
+JcGcN
+EndImage2
+Fore
+SplineSet
+28 5 m 1
+ 28 37 l 1
+ 8 37 l 25
+ 8 5 l 1
+ 20 5 l 1
+ 16 9 l 1
+ 16 13 l 1
+ 20 13 l 5
+ 28 5 l 1
+4 5 m 25
+ 4 37 l 25
+ 8 41 l 25
+ 28 41 l 25
+ 32 37 l 25
+ 32 5 l 25
+ 30 3 l 25
+ 32 1 l 25
+ 32 -3 l 1
+ 28 -3 l 1
+ 24 1 l 1
+ 8 1 l 1
+ 4 5 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: R
+Encoding: 82 82 82
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 124 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[FMs+(3,%e-,9M"hhl"s>r87L'DWJ<0dKJ^ac%`^ppba`\i%z8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+8 25 m 25
+ 28 25 l 25
+ 28 37 l 25
+ 8 37 l 25
+ 8 25 l 25
+4 1 m 25
+ 4 41 l 25
+ 28 41 l 25
+ 32 37 l 25
+ 32 25 l 25
+ 28 21 l 25
+ 16 21 l 29
+ 32 5 l 25
+ 32 1 l 25
+ 28 1 l 25
+ 8 21 l 25
+ 8 1 l 25
+ 4 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: S
+Encoding: 83 83 83
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 124 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[E:J%u%P#neA&J,t<9^^).0+Me%E49u'e$'k_p>!<:?W]$9&z8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+30 33 m 29
+ 26 33 l 25
+ 26 37 l 25
+ 10 37 l 25
+ 8 33 l 25
+ 8 29 l 25
+ 10 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 32 17 l 25
+ 32 9 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 6 9 l 25
+ 10 9 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 28 9 l 25
+ 28 17 l 25
+ 26 21 l 25
+ 10 21 l 25
+ 6 25 l 25
+ 4 29 l 25
+ 4 33 l 25
+ 6 37 l 25
+ 10 41 l 25
+ 26 41 l 25
+ 30 37 l 25
+ 30 33 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: T
+Encoding: 84 84 84
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMs+^W2Ql3t1!9_c5/SZXAFT;CA!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+16 1 m 29
+ 16 37 l 25
+ 4 37 l 25
+ 4 41 l 25
+ 32 41 l 25
+ 32 37 l 25
+ 20 37 l 25
+ 20 1 l 25
+ 16 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: U
+Encoding: 85 85 85
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 110 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!78OPjD#T[D7^r&DM8s!E\,5DI/"9@<6&$InQ1faSV!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+4 41 m 29
+ 8 41 l 25
+ 8 9 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 28 9 l 25
+ 28 41 l 25
+ 32 41 l 25
+ 32 9 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 4 9 l 25
+ 4 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: V
+Encoding: 86 86 86
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 124 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!E8OPjD#T[D7^r([;,tK]iOb!N=8L/ftcN+SdDZCqm"s<sIS4O*j+/*C=z8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+8 41 m 29
+ 8 25 l 25
+ 18 5 l 25
+ 28 25 l 25
+ 28 41 l 25
+ 32 41 l 25
+ 32 25 l 25
+ 20 1 l 25
+ 16 1 l 25
+ 4 25 l 25
+ 4 41 l 25
+ 8 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: W
+Encoding: 87 87 87
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 117 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!>8OPjD#T[D7^r([-*Tgd\UGHO"JEVUp#_BA`!!Jf)<F+3Hq#CBp!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+4 41 m 25
+ 8 41 l 25
+ 8 7 l 25
+ 16 15 l 25
+ 16 21 l 25
+ 20 21 l 25
+ 20 15 l 25
+ 28 7 l 25
+ 28 41 l 25
+ 32 41 l 25
+ 32 1 l 25
+ 28 1 l 25
+ 18 11 l 25
+ 8 1 l 25
+ 4 1 l 25
+ 4 41 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: X
+Encoding: 88 88 88
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 128 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!I8OPjD#T[DGOC/&4!s9*t8,sg)"!GP=!(%5T6l_p*UAb-'_Z:eY4X:COcPpEQz8OZBB
+Y!QNJ
+EndImage2
+Fore
+SplineSet
+14 23 m 1
+ 6 39 l 1
+ 10 41 l 1
+ 18 25 l 1
+ 26 41 l 1
+ 30 39 l 1
+ 22 23 l 5
+ 32 3 l 1
+ 28 1 l 1
+ 18 21 l 9
+ 8 1 l 1
+ 4 3 l 1
+ 14 23 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Y
+Encoding: 89 89 89
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[D7@))b1#mh_bDubP:)aK4O!JK+p+TOgU#0id/oJ-CH!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+10 41 m 29
+ 18 25 l 25
+ 26 41 l 25
+ 30 41 l 25
+ 20 21 l 25
+ 20 1 l 25
+ 16 1 l 25
+ 16 21 l 25
+ 6 41 l 25
+ 10 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Z
+Encoding: 90 90 90
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 135 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!P8OPjD#T[FMs+(3,(_XXJ!!C+>#0$iY@V,T`2DF-!?iVAW0J[$D!2B<35Qh(:(CJ:_
+cJIFY!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+4 41 m 29
+ 28 41 l 25
+ 12 5 l 25
+ 30 5 l 25
+ 30 1 l 25
+ 6 1 l 25
+ 22 37 l 25
+ 4 37 l 25
+ 4 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 91
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 12 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!'!!!!5!<W<%!0eJ[RfEEg##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FM_siH?!!*@)!rtOZ&+O8YM3\,A!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+24 41 m 29
+ 24 37 l 25
+ 16 37 l 25
+ 16 5 l 25
+ 24 5 l 25
+ 24 1 l 25
+ 12 1 l 25
+ 12 41 l 25
+ 24 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 92
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 130 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!,!!!!5!<W<%!+Fke.f]PL##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!K8OPjD#T[D7^q]q<$".;Z^]6b8@)Tsu!(:X2`6?!s7#VQt"B#]Z!!'LF#!E0*^et.4
+!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+6 41 m 29
+ 10 41 l 25
+ 28 1 l 25
+ 24 1 l 25
+ 6 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 93
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 106 12 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!'!!!!5!<W<%!0eJ[RfEEg##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FM_siG4LB%IW!<?Eh"L4UcaK>LC!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+12 41 m 29
+ 24 41 l 25
+ 24 1 l 25
+ 12 1 l 25
+ 12 5 l 25
+ 20 5 l 25
+ 20 37 l 25
+ 12 37 l 25
+ 12 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 94
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 115 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!+!<W<%!4Vl3rVuou##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!<8OPjD#T[F5@:0'Z3A<4#?iZq>"qWh7!/LV%S-=>Iep$-S!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+8 21 m 29
+ 18 41 l 25
+ 28 21 l 25
+ 24 21 l 25
+ 18 33 l 25
+ 12 21 l 25
+ 8 21 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 95
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 102 4 -3 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!#!<W<%!)c47kl:\`##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[FMs+fS5*rl]7"8A'r$EX:.!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+4 -3 m 29
+ 32 -3 l 25
+ 32 -7 l 25
+ 4 -7 l 25
+ 4 -3 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: grave
+Encoding: 96 96 96
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 109 12 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!&!!!!)!<W<%!"2#hGQ7^D##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[D7^i4fI!=0-b:kCt7!$<lrd2>i\lMpnb!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+16 41 m 29
+ 22 25 l 25
+ 18 25 l 25
+ 12 41 l 25
+ 16 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: a
+Encoding: 97 97 97
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 117 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!-!<W<%!/#QnRK*<f##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!>8OPjD#T[ERJ%u%P$jIhbrrIc_(a)ZR%u0p&!6_8K.hs8([K$:-!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+26 13 m 29
+ 10 13 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 26 13 l 29
+8 25 m 25
+ 28 25 l 25
+ 30 21 l 25
+ 30 5 l 25
+ 32 5 l 25
+ 32 1 l 25
+ 8 1 l 25
+ 6 5 l 25
+ 6 13 l 25
+ 10 17 l 25
+ 26 17 l 25
+ 26 21 l 25
+ 8 21 l 25
+ 8 25 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: b
+Encoding: 98 98 98
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 112 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[D7^qbI8rBJ't6jF.),Hr^!.aSlXl=#rdz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+26 21 m 29
+ 10 21 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 26 21 l 29
+6 41 m 25
+ 10 41 l 25
+ 10 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 6 1 l 25
+ 6 41 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: c
+Encoding: 99 99 99
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 113 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[EZ5JR7e#7SD(J`-SKJORA[!5eR>^"R<QiW&rY!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+30 17 m 29
+ 26 17 l 25
+ 26 21 l 25
+ 10 21 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 26 9 l 25
+ 30 9 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 6 21 l 25
+ 10 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 30 17 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: d
+Encoding: 100 100 100
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 115 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!<8OPjD#T[D_0OV\Rlp!0(d/a@9W;[#hr=8lTM%35cam*F;!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+26 21 m 29
+ 10 21 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 26 21 l 29
+26 25 m 25
+ 26 41 l 25
+ 30 41 l 25
+ 30 5 l 25
+ 32 5 l 25
+ 32 1 l 25
+ 8 1 l 25
+ 6 5 l 25
+ 6 21 l 25
+ 10 25 l 25
+ 26 25 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: e
+Encoding: 101 101 101
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[EZ5JR7e#7Nl]rs')r^jn]D*uO?/!!)Q(%3%3E1'dj[!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+10 21 m 29
+ 10 17 l 25
+ 26 17 l 25
+ 26 21 l 25
+ 10 21 l 29
+6 21 m 25
+ 10 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 30 13 l 25
+ 10 13 l 25
+ 10 5 l 25
+ 30 5 l 25
+ 30 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 6 21 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: f
+Encoding: 102 102 102
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[D_5/7.d49f33^q^%>rspd`&Y+c=!<DW;"soN(mLB3s!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+14 1 m 29
+ 14 21 l 25
+ 6 21 l 25
+ 6 25 l 25
+ 14 25 l 25
+ 14 37 l 25
+ 18 41 l 25
+ 26 41 l 25
+ 30 37 l 25
+ 30 33 l 25
+ 26 33 l 25
+ 26 37 l 25
+ 18 37 l 25
+ 18 25 l 25
+ 26 25 l 25
+ 26 21 l 25
+ 18 21 l 25
+ 18 1 l 25
+ 14 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: g
+Encoding: 103 103 103
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 117 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!1!<W<%!#VmJ6i[2e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!>8OPjD#T[EZ5JR7e#7StAr<ENL@P@d*Lb)XS!+HQN4+G/P=9&=$!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+10 9 m 29
+ 26 9 l 25
+ 26 21 l 25
+ 10 21 l 25
+ 10 9 l 29
+6 1 m 1
+ 8 1 l 1
+ 12 -3 l 1
+ 26 -3 l 1
+ 26 5 l 25
+ 10 5 l 25
+ 6 9 l 25
+ 6 21 l 25
+ 10 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 30 -3 l 25
+ 26 -7 l 25
+ 10 -7 l 25
+ 6 -3 l 25
+ 6 1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: h
+Encoding: 104 104 104
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 110 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!78OPjD#T[D7^qbI8rBJ't6jF.i+93`Y'&W9qGn0lT!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+6 41 m 29
+ 10 41 l 25
+ 10 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 30 1 l 25
+ 26 1 l 25
+ 26 21 l 25
+ 10 21 l 25
+ 10 1 l 25
+ 6 1 l 25
+ 6 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: i
+Encoding: 105 105 105
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 111 10 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!)!!!!1!<W<%!"hW#4obQ_##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[E:@$"arJI3M&Z'"!pLAq6$>Q`lIaTh)3!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+16 29 m 29
+ 16 33 l 25
+ 20 33 l 25
+ 20 29 l 25
+ 16 29 l 29
+12 25 m 25
+ 20 25 l 25
+ 20 5 l 25
+ 26 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 10 5 l 25
+ 16 5 l 25
+ 16 21 l 25
+ 12 21 l 25
+ 12 25 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: j
+Encoding: 106 106 106
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 8 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!*!!!!5!<W<%!+ct#('"=7##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[D_Cg[5e#[hRY!$[4)0(L[u!ta.9&-2[a#oRcm*7b)i!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+18 25 m 29
+ 26 25 l 25
+ 26 1 l 25
+ 24 -3 l 25
+ 20 -7 l 25
+ 12 -7 l 25
+ 8 -3 l 25
+ 8 1 l 25
+ 12 1 l 25
+ 12 -3 l 25
+ 20 -3 l 25
+ 22 1 l 25
+ 22 21 l 25
+ 18 21 l 25
+ 18 25 l 29
+22 29 m 25
+ 22 33 l 25
+ 26 33 l 25
+ 26 29 l 25
+ 22 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: k
+Encoding: 107 107 107
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 126 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!5!<W<%!0/0c'`\46##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!G8OPjD#T[D7^qbJ\%PSk^^i5YAK[,+q#6kATK!6EX5QqB&!!!^T&tSIIF7B51!!#SZ
+:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+8 1 m 29
+ 8 41 l 25
+ 12 41 l 25
+ 12 17 l 25
+ 24 29 l 25
+ 27 26 l 25
+ 16 15 l 25
+ 27 4 l 25
+ 24 1 l 25
+ 12 13 l 25
+ 12 1 l 25
+ 8 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: l
+Encoding: 108 108 108
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 110 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!5!<W<%!0/0c'`\46##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!78OPjD#T[EZ@:0'Z*YQm#!t>2?!!#.'"LiU[Z!m\5!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+12 41 m 29
+ 20 41 l 25
+ 20 5 l 25
+ 28 5 l 25
+ 28 1 l 25
+ 8 1 l 25
+ 8 5 l 25
+ 16 5 l 25
+ 16 37 l 25
+ 12 37 l 25
+ 12 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: m
+Encoding: 109 109 109
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!-!<W<%!,,+KR/d3e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMs+(3,%eJUE!;ru-ouuV*<<*"!!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+4 1 m 29
+ 4 25 l 25
+ 28 25 l 25
+ 32 21 l 25
+ 32 1 l 25
+ 28 1 l 25
+ 28 21 l 25
+ 20 21 l 25
+ 20 1 l 25
+ 16 1 l 25
+ 16 21 l 25
+ 8 21 l 25
+ 8 1 l 25
+ 4 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: n
+Encoding: 110 110 110
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 105 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!-!<W<%!/#QnRK*<f##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMs+(3,&gZrh!69p%O0<2*+92BA!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+4 25 m 29
+ 28 25 l 25
+ 30 21 l 25
+ 30 1 l 25
+ 26 1 l 25
+ 26 21 l 25
+ 10 21 l 25
+ 10 1 l 25
+ 6 1 l 25
+ 6 21 l 25
+ 4 21 l 25
+ 4 25 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: o
+Encoding: 111 111 111
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 107 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[EZ5JR7e#7Rg]YUfe$)@Ls50Lrt[!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+26 21 m 29
+ 10 21 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 26 21 l 29
+6 21 m 25
+ 10 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 10 1 l 25
+ 6 5 l 25
+ 6 21 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: p
+Encoding: 112 112 112
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 112 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!1!<W<%!#VmJ6i[2e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[FMIt.QU%N(i`W&Oms!>GY:bt/Kfm0'&Iz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+10 9 m 29
+ 26 9 l 25
+ 26 21 l 25
+ 10 21 l 25
+ 10 9 l 29
+6 -7 m 25
+ 6 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 30 9 l 25
+ 26 5 l 25
+ 10 5 l 25
+ 10 -7 l 25
+ 6 -7 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: q
+Encoding: 113 113 113
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 112 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!1!<W<%!#VmJ6i[2e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[EZs1eV&#7Srk7%D)D!>PV8?hk(X<un4jz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+10 21 m 29
+ 10 9 l 25
+ 26 9 l 25
+ 26 21 l 25
+ 10 21 l 29
+6 21 m 25
+ 10 25 l 25
+ 30 25 l 25
+ 30 -7 l 25
+ 26 -7 l 25
+ 26 5 l 25
+ 10 5 l 25
+ 6 9 l 25
+ 6 21 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: r
+Encoding: 114 114 114
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 109 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[D7It.QU4rAgs!=#V2!:Q$X?PV#,R/d3e!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+6 1 m 29
+ 6 25 l 25
+ 10 25 l 25
+ 10 21 l 25
+ 14 25 l 25
+ 26 25 l 25
+ 30 21 l 25
+ 30 17 l 25
+ 26 17 l 25
+ 26 21 l 25
+ 14 21 l 25
+ 10 17 l 25
+ 10 1 l 25
+ 6 1 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: s
+Encoding: 115 115 115
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 117 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!>8OPjD#T[ERJ%u%P#8f]3_IbK0J><,L)#bTW!725a4/hf^-ia5I!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+28 25 m 29
+ 28 21 l 25
+ 10 21 l 25
+ 10 17 l 25
+ 28 17 l 25
+ 30 13 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 6 1 l 25
+ 6 5 l 25
+ 26 5 l 25
+ 26 13 l 25
+ 8 13 l 25
+ 6 17 l 25
+ 6 21 l 25
+ 8 25 l 25
+ 28 25 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: t
+Encoding: 116 116 116
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[F5@:2>frspd`&XjhoCV[_q^qb<tL]FA?"smTU7p#`k!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+14 41 m 29
+ 18 41 l 25
+ 18 29 l 25
+ 26 29 l 25
+ 26 25 l 25
+ 18 25 l 25
+ 18 5 l 25
+ 26 5 l 25
+ 26 9 l 25
+ 30 9 l 25
+ 30 5 l 25
+ 26 1 l 25
+ 18 1 l 25
+ 14 5 l 25
+ 14 25 l 25
+ 6 25 l 25
+ 6 29 l 25
+ 14 29 l 25
+ 14 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u
+Encoding: 117 117 117
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 107 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!-!<W<%!/#QnRK*<f##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[D7@).9tec0$UrrE,H,n*QeQC8!X!!!!j78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+6 25 m 29
+ 10 25 l 25
+ 10 5 l 25
+ 26 5 l 25
+ 26 25 l 25
+ 30 25 l 25
+ 30 5 l 25
+ 32 5 l 25
+ 32 1 l 25
+ 8 1 l 25
+ 6 5 l 25
+ 6 25 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: v
+Encoding: 118 118 118
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 118 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[D7@))b1#mh_bDubP:)aK4O!JK)j#QUO'#+a+`mCWE!!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+10 25 m 29
+ 18 9 l 25
+ 26 25 l 25
+ 30 25 l 25
+ 18 1 l 25
+ 6 25 l 25
+ 10 25 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: w
+Encoding: 119 119 119
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 117 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!-!<W<%!,,+KR/d3e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!>8OPjD#T[D7^r$.BLNs_e."):*fmEcCM$+q&!4[1Z'e[*EQiI*d!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+4 25 m 29
+ 8 25 l 25
+ 8 13 l 25
+ 12 5 l 25
+ 16 13 l 25
+ 16 17 l 25
+ 20 17 l 25
+ 20 13 l 25
+ 24 5 l 25
+ 28 13 l 25
+ 28 25 l 25
+ 32 25 l 25
+ 32 13 l 25
+ 26 1 l 25
+ 22 1 l 25
+ 18 9 l 25
+ 14 1 l 25
+ 10 1 l 25
+ 4 13 l 25
+ 4 25 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: x
+Encoding: 120 120 120
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 112 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[D7@))b1"p[DLT)jKc,%+ORMg>WATE95nz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+6 22 m 1
+ 9 25 l 1
+ 18 16 l 1
+ 27 25 l 1
+ 30 22 l 1
+ 21 13 l 1
+ 30 4 l 1
+ 27 1 l 1
+ 18 10 l 1
+ 9 1 l 1
+ 6 4 l 5
+ 15 13 l 1
+ 6 22 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: y
+Encoding: 121 121 121
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 127 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!,!!!!1!<W<%!;^aQ4TGH^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!H8OPjD#T[DG872EAK**5Af`4A:$m<Im7Q_(f5U6A"*uGhY0E;*h;?l6'K7Xp?!!!!j
+78?7R6=>BF
+EndImage2
+Fore
+SplineSet
+8 25 m 25
+ 12 25 l 25
+ 18 13 l 25
+ 24 25 l 25
+ 28 25 l 25
+ 12 -7 l 25
+ 6 -7 l 25
+ 6 -3 l 25
+ 10 -3 l 1
+ 16 9 l 25
+ 8 25 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: z
+Encoding: 122 122 122
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 117 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!-!<W<%!,T9mU]:Ap##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!>8OPjD#T[FMs+(3,(_2'-1BRpQJ<9j7!t^#p!P#lN]6A#B,ldoF!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+22 21 m 29
+ 6 21 l 25
+ 6 25 l 25
+ 30 25 l 1
+ 14 5 l 25
+ 30 5 l 1
+ 30 1 l 25
+ 6 1 l 29
+ 22 21 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 123
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 114 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!5!<W<%!0/0c'`\46##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!;8OPjD#T[F55JR7e&e+!f%g)nR@EO1E!<Dsg#YiZN"@W:j!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+SplineSet
+28 41 m 29
+ 28 37 l 25
+ 18 37 l 25
+ 18 25 l 25
+ 20 25 l 25
+ 20 17 l 25
+ 18 17 l 25
+ 18 5 l 25
+ 28 5 l 25
+ 28 1 l 25
+ 16 1 l 25
+ 14 5 l 25
+ 14 17 l 25
+ 8 17 l 25
+ 8 25 l 25
+ 14 25 l 25
+ 14 37 l 25
+ 16 41 l 25
+ 28 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bar
+Encoding: 124 124 124
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 101 14 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!5!<W<%!0HFTV>pSr##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!.8OPjD#T[FM^d&S:!-^@7_4'hbH2mpF!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+14 41 m 29
+ 22 41 l 25
+ 22 1 l 25
+ 14 1 l 25
+ 14 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 125
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 113 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!5!<W<%!0/0c'`\46##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[FM_nZ7?C`&!.!!=3Lb(=a:!8rkBF[+4sirB&Z!(fUS7'8jaJcGcN
+EndImage2
+Fore
+SplineSet
+8 41 m 29
+ 20 41 l 25
+ 22 37 l 25
+ 22 25 l 25
+ 28 25 l 25
+ 28 17 l 25
+ 22 17 l 25
+ 22 5 l 25
+ 20 1 l 25
+ 8 1 l 25
+ 8 5 l 25
+ 18 5 l 25
+ 18 17 l 25
+ 16 17 l 25
+ 16 25 l 25
+ 18 25 l 25
+ 18 37 l 25
+ 8 37 l 25
+ 8 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 126
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 108 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!'!<W<%!6NbSrr<$!##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!58OPjD#T[EZ@:0)0_`T'[n,\=F)bU;-`<XPhz8OZBBY!QNJ
+EndImage2
+Fore
+SplineSet
+4 17 m 29
+ 4 21 l 25
+ 8 25 l 25
+ 16 25 l 25
+ 20 21 l 25
+ 20 17 l 25
+ 28 17 l 25
+ 28 21 l 25
+ 32 21 l 25
+ 32 17 l 25
+ 28 13 l 25
+ 20 13 l 25
+ 16 17 l 25
+ 16 21 l 25
+ 8 21 l 25
+ 8 17 l 25
+ 4 17 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni007F
+Encoding: 127 127 127
+Width: 36
+Flags: HW
+LayerCount: 2
+Back
+Image2: image/png 123 6 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!/!<W<%!$QE%Y5eP&##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[D_@pf9\IP?q$?iVC'"!Ehi!($o!5j84Q+9DOn3=:*p4B(nQ!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+SplineSet
+10 5 m 29
+ 26 5 l 25
+ 18 21 l 25
+ 10 5 l 29
+6 1 m 25
+ 6 5 l 25
+ 18 29 l 25
+ 30 5 l 25
+ 30 1 l 25
+ 6 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0080
+Encoding: 128 128 128
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0081
+Encoding: 129 129 129
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0082
+Encoding: 130 130 130
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0083
+Encoding: 131 131 131
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0084
+Encoding: 132 132 132
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0085
+Encoding: 133 133 133
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0086
+Encoding: 134 134 134
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0087
+Encoding: 135 135 135
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0088
+Encoding: 136 136 136
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0089
+Encoding: 137 137 137
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni008A
+Encoding: 138 138 138
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni008B
+Encoding: 139 139 139
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni008C
+Encoding: 140 140 140
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni008D
+Encoding: 141 141 141
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni008E
+Encoding: 142 142 142
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni008F
+Encoding: 143 143 143
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0090
+Encoding: 144 144 144
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0091
+Encoding: 145 145 145
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0092
+Encoding: 146 146 146
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0093
+Encoding: 147 147 147
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0094
+Encoding: 148 148 148
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0095
+Encoding: 149 149 149
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0096
+Encoding: 150 150 150
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0097
+Encoding: 151 151 151
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0098
+Encoding: 152 152 152
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni0099
+Encoding: 153 153 153
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni009A
+Encoding: 154 154 154
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni009B
+Encoding: 155 155 155
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni009C
+Encoding: 156 156 156
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni009D
+Encoding: 157 157 157
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni009E
+Encoding: 158 158 158
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni009F
+Encoding: 159 159 159
+Width: 36
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 160
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 130 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!K8OPjD#T[D_Cg[5e2?j_U!$_\%W.2S_6js8BAH)[`%N$<br==YZ*rlhX%;CB?C;9fL
+!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: exclamdown
+Encoding: 161 161 161
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 116 10 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!)!!!!5!<W<%!/f=p-ia5I##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!=8OPjD#T[D_@pif.!5\j]"G$n&"S%W5Itmt'5\pS(Bp;[nz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: cent
+Encoding: 162 162 162
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 120 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!A8OPjD#T[D_Cg[5e2?j_U!$_\%YWoo'6jF.),Hr^!'IF7#>XRd4z8OZBBY!QNJ
+
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 163
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 120 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!5!<W<%!,VQZC]FG8##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!A8OPjD#T[D_Cg[5e2?j_U!$_\%3+0OP#M&i^W;cku'JU&V5)_i_z8OZBBY!QNJ
+
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: currency
+Encoding: 164 164 164
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 118 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[ER@pf;2_`T'[p]H0li;X#d+A.a2K)hn]%3#KG%U8u6!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: yen
+Encoding: 165 165 165
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 132 4 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!7!<W<%!6PC.A,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!M8OPjD#T[ERP@+Bb_]M,L!Y4]R!7;$*3lAi87#/VB^_m=fZ2l2S)R)g6HAiNBY;X%9
+z8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: brokenbar
+Encoding: 166 166 166
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 123 4 37 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!/!<W<%!%!B7OoPI^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[EZs1eV&$ka[.rr[oe,XBHM%gYJ:s$$qlrr<&VmL0u&XAVam!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: section
+Encoding: 167 167 167
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 115 4 37 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!/!<W<%!%!B7OoPI^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!<8OPjD#T[E:J%u%P#nlG-,0g/ms8OeNrrW8<kmG=>_H26f!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: dieresis
+Encoding: 168 168 168
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 126 6 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!G8OPjD#T[D_@pf9\#_9-&U]^c%&1)kS!<WNc8k<=i,5DEc!W[F;#Es_p%$gkn!!#SZ
+:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: copyright
+Encoding: 169 169 169
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 105 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!)!<W<%!;@t%Z2ak)##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMs+(3,%PXP!!.5dm?UI]HjT#8\!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ordfeminine
+Encoding: 170 170 170
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 105 6 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!)!<W<%!;@t%Z2ak)##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMs+(3,(_"b&!*\ams!Lsmf`2!P!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: guillemotleft
+Encoding: 171 171 171
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 134 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!9!<W<%!:U;$'EA+5##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!O8OPjD#T[D_Cg[5eFteNP+X@.,r;XY76kI.`J,tHC&jQ`>Q=+)#,5DI/"9@ST%Q.!m
+hR`af!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: logicalnot
+Encoding: 172 172 172
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 135 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!9!<W<%!:U;$'EA+5##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!P8OPjD#T[D_Cg[5eFteNP+X@.,r;XY76kI.]J,tIN^rYF6!ta.8!$R(!5Qh&of+@+$
+-IO(<!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 173
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 14 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!5!<W<%!0HFTV>pSr##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FM^]8oo5QG;(T`I@O&E2)U%H@Eg!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: registered
+Encoding: 174 174 174
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 118 4 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!/!<W<%!%!B7OoPI^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[D_k$\66*Wls/2ul:#)*eJEL5:K4!!%bu#'6fn$RbuT!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: macron
+Encoding: 175 175 175
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 118 4 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!/!<W<%!%!B7OoPI^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[D7beO3H"p[DL`rLd[GsDYPL5:K4!!&i=#M\k).fTJK!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: degree
+Encoding: 176 176 176
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 105 4 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!;!<W<%!565K*rl9@##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[D7bejEK&3qrh!5@4r;\$^d[/^1,!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: plusminus
+Encoding: 177 177 177
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 2 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!1!!!!=!<W<%!)ij!=TAF%##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[D/2J)r`1M8t/8o+K9`#Ig@5&Ztl!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni00B2
+Encoding: 178 178 178
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!=!<W<%!*0GTA,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[D7beq3r_Z0WX!+Qr=!J7=+\+>,kAcMf2!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni00B3
+Encoding: 179 179 179
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 101 16 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!#!!!!=!<W<%!-+h4MuWhX##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!.8OPjD#T[D7^d&Y<!)-E.!RK:'1&q:S!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: acute
+Encoding: 180 180 180
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!=!<W<%!+L#^GQ7^D##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[D_35@cjrBJ't6j/dk'EA-MVAB2cBDE_O!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: mu
+Encoding: 181 181 181
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!=!<W<%!+L#^GQ7^D##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[D_35C%LrBJ)JL@?UG8HAg8ru1b?im7u3!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: paragraph
+Encoding: 182 182 182
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!=!<W<%!,l_u56(Z`##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[D_rkLc1rVsY56j/dk'EA-4FrZJi,%L0D!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 183
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 104 0 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!1!<W<%!#VmJ6i[2e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!18OPjD#T[FMs+(3,R#+63^?Z@[1g(5/z8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: cedilla
+Encoding: 184 184 184
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 0 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!3!<W<%!*FO&#QOi)##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FMIt.P/0cXRDKE-/t'77:^O2:ks!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni00B9
+Encoding: 185 185 185
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!=!<W<%!,l_u56(Z`##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[D_rkO$hrVsZ`L@?UG8HAfrXWW&&Phl6;!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ordmasculine
+Encoding: 186 186 186
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 101 12 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!'!!!!=!<W<%!-h:Ep&G'm##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!.8OPjD#T[FM_a"t?!!FSeOm%087fWMh!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: guillemotright
+Encoding: 187 187 187
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 0 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!3!<W<%!**[6:B1@p##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FMs+(1[0n3RRKE0F0(B<45']8rk!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: onequarter
+Encoding: 188 188 188
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!1!<W<%!#VmJ6i[2e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[D_rkO$hrVsZ`M?'2g'cG@9a,L'!!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: onehalf
+Encoding: 189 189 189
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!/!<W<%!$QE%Y5eP&##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[D_rkLc1rVs\&rrW6;Zk#M.%CGd.!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: threequarters
+Encoding: 190 190 190
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!1!<W<%!#;bd!rr<$##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[D_35C%LrBJ)JM?$QZ&c93Vik>Bm!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: questiondown
+Encoding: 191 191 191
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 104 0 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!1!<W<%!#;bd!rr<$##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!18OPjD#T[FMIt.QU(l1T\FQ<o2q_qBXz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 192
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 16 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!/!<W<%!%_t/kPtS_##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[D7^q`2HrBJ*err<&^@gmj#>!+#0!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 193
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!/!<W<%!#QF,oDejk##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[D_35E<p$NC)*!!<c7!&h4pIACjO_uKc;!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 194
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 0 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!1!<W<%!$TFs*rl9@##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[FMs8N'$#VuGm)&N?lljs':5^)Pq!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 195
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 16 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!=!<W<%!+L#^GQ7^D##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[D7^q`2HrBJ't6j/dk'EA-a-5QUuZC;+"!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 196
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 103 0 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!#!<W<%!,pF0NrT.[##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!08OPjD#T[FMs8N'$&-DnJFp3:Mj3p$h!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 197
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 113 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!=!<W<%!*0GTA,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[D_35E<p$NC)*!!<LjU'F7A!/O2`r@/bijo>A]!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: AE
+Encoding: 198 198 198
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 16 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!=!<W<%!+L#^GQ7^D##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[D7^qbI*rBJ)JL@?UG8HAgIIiA3K8TYjN!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 199
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 12 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!=!<W<%!,l_u56(Z`##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[FM_n\MKrVsY56j/dk'EA-sGo_**UsVp;!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Egrave
+Encoding: 200 200 200
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 12 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!1!<W<%!#VmJ6i[2e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FM_n^d-rVsZ`M?'rN'm'4VN">sh!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Eacute
+Encoding: 201 201 201
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 12 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!3!<W<%!**[6:B1@p##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FMs+(1[rF'(VKE1*Q(Mc9I)X7;&!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Ecircumflex
+Encoding: 202 202 202
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!1!<W<%!$TFs*rl9@##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[D_rkQ<7%0$;,!!<uF!,2o\o7IAm<WE+"!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 203
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 0 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!3!<W<%!,MWT'EA+5##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[FMs8N'$2U))MJUmq4!:I-3fd$YoirB&Z!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Igrave
+Encoding: 204 204 204
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 111 12 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!=!<W<%!,l_u56(Z`##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!88OPjD#T[FM_n^d-rVsZ`L@?UG8HAgRMBP@2b',T@!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Iacute
+Encoding: 205 205 205
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 103 0 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!'!<W<%!;&cdR/d3e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!08OPjD#T[FMs8N'$((:2`!YBKS)^L%9!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Icircumflex
+Encoding: 206 206 206
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 113 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!=!<W<%!*0GTA,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[D_rkQ<7%0$;,!!>,QN*[be!*FUp=#B+9!<<*"!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 207
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!1!<W<%!$TFs*rl9@##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[D_35E<p%0$;,!!<uF!"ha<okoT,p](9o!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Eth
+Encoding: 208 208 208
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!/!<W<%!#QF,oDejk##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[D_rkQ<7$NC)*!!<c7!/"DciBnh?$ig8-!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Ntilde
+Encoding: 209 209 209
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 0 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!3!<W<%!,MWT'EA+5##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[FMs8N'$2U$,jJUmq4!4=EsFgGf$o)Jaj!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Ograve
+Encoding: 210 210 210
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 108 0 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!1!<W<%!$TFs*rl9@##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!58OPjD#T[FMs8N'$#W$s<+9quK^+L&=B5A!6z8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Oacute
+Encoding: 211 211 211
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 12 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!/!<W<%!$QE%Y5eP&##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[FM_n\MKrVs\&rrW6Q8e8+K*Q(/C!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Ocircumflex
+Encoding: 212 212 212
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 16 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!1!<W<%!#;bd!rr<$##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[D7^qbI*rBJ)JM?$h7&c4Y=glML9!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 213
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 106 16 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!3!<W<%!*FO&#QOi)##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!38OPjD#T[FMIt.P/*FN7tKE-K('75KA'A!3a!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 214
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 105 12 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!1!<W<%!#VmJ6i[2e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMs+(3,r\+n?!7meTVoPil8,rVi!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 215
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 113 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!=!<W<%!*0GTA,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[D_rkQ<7$NC)*!!<LjU'F7A!3%"\.oPD2HN4$G!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 216
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 113 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!=!<W<%!*0GTA,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[D_35E<p%0$;,!!>,QN*[be!,$p,oiLn-%KHJ/!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Ugrave
+Encoding: 217 217 217
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!/!<W<%!%_t/kPtS_##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[D_35@cjrBJ*err<&U@gmk?@61^p!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Uacute
+Encoding: 218 218 218
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 105 16 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!1!<W<%!#;bd!rr<$##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMIt.QU%PSHN!.SMgs%e`o+ohTC!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Ucircumflex
+Encoding: 219 219 219
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 103 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!=!<W<%!*0GTA,lT0##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!08OPjD#T[FMs8N'$*AIQD"AHpc!"Cgd!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 220
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 103 0 17 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!/!<W<%!#QF,oDejk##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!08OPjD#T[FMs8N'$)&N?3eg=rIja#JY!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Yacute
+Encoding: 221 221 221
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 101 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!)!!!!=!<W<%!+pt%70!;f##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!.8OPjD#T[FMcTi6K!"DpIj`&m=X8i5#!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Thorn
+Encoding: 222 222 222
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 102 16 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!=!<W<%!+L#^GQ7^D##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[FMIt3+(#QP1.0]eEI.&HtE!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: germandbls
+Encoding: 223 223 223
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 103 0 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!3!!!!/!<W<%!#QF,oDejk##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!08OPjD#T[FMs8N'$)&N?3eg=rIja#JY!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: agrave
+Encoding: 224 224 224
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 115 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!-!<W<%!,,+KR/d3e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!<8OPjD#T[EZ2dcW[`!7E,huEgE7-nb-ltlaa!"@P]W"#O&!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: aacute
+Encoding: 225 225 225
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 129 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!9!<W<%!;-2L.0'>J##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!J8OPjD#T[E:DdWR>KEMiI@"<n?0H<'fE#ss7`5-3f+(,)C!t9,O!+J&-]:tAX-3+#G
+!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: acircumflex
+Encoding: 226 226 226
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 117 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!>8OPjD#T[FMs+^W2$uE_8LVWtH(^Qm$$k.V&!+8V0J)"$7NrT.[!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: atilde
+Encoding: 227 227 227
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 113 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!-!<W<%!,,+KR/d3e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[EZs2+h)B+.%]#6ROg0M"_7!1YVF2]VtWfDkmO!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: adieresis
+Encoding: 228 228 228
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 123 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!D8OPjD#T[FMs+^W2%!Y$nLB3'q_2.%M!usTp+L2QD?sNbI#7MK^OiE+U!!!!j78?7R
+6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: aring
+Encoding: 229 229 229
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 116 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!-!<W<%!,,+KR/d3e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!=8OPjD#T[F5s2+h)"pQ2l!!sqs0E@5_!tYJ5Xi:ZI/linfz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ae
+Encoding: 230 230 230
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 115 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!1!<W<%!$#1tGlRgE##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!<8OPjD#T[D/i*jEYlp!0(OT>Oc*FN87^]4@ejT^2P2fLYT!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ccedilla
+Encoding: 231 231 231
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 113 4 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!-!<W<%!/#QnRK*<f##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[ERs1n\'LD`@5)$;TW?sn?^!0=bs8T#92+TMKB!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: egrave
+Encoding: 232 232 232
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 119 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!@8OPjD#T[F55JR7ebR>Ts@2g.>!7>3r"G2G;W!!)tkmL5$d@cX&!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: eacute
+Encoding: 233 233 233
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 119 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!@8OPjD#T[E:J%u%P#neA&J-UZ)s'^F&A9!DtYV#o^mM%,3#@SnY!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ecircumflex
+Encoding: 234 234 234
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 130 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!K8OPjD#T[F55JR7e"pQ2lJ-UW<,T)%;+tf"n!(8pS5j6E0&@2*36i`*X%o4fH-QN0e
+!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: edieresis
+Encoding: 235 235 235
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 125 6 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!5!<W<%!/!I1;?-[s##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!F8OPjD#T[E:DdWPhK**5A_#Qf<?j%';872Fl!sT#6&HU&V!*6lDQaGSl_Z0Z:!(fUS
+7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: igrave
+Encoding: 236 236 236
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 112 4 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!+!<W<%!599JKE(uP##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!98OPjD#T[EZq7ltukqbTg0FnFTfO/\!R:-Fqi9`ZCz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: iacute
+Encoding: 237 237 237
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 127 4 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!5!<W<%!/JahDZBb;##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!H8OPjD#T[D_0OOmS";$`G!()Mu5j0m4!i8IB!"hV"Jq3rY^mY7IO:0[b;(kWD!!!!j
+78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: icircumflex
+Encoding: 238 238 238
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 118 8 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!/!<W<%!%_t/kPtS_##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!?8OPjD#T[EZ5JR7e#n.qu!0$n50E;]<%1riG!<Ctj$@=>1+6rn,!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 239
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 6 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!/!<W<%!$QE%Y5eP&##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[E:DdWR>KEMiI@"8I_!:_QJ+132ReGoRL!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: eth
+Encoding: 240 240 240
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 105 6 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!-!!!!/!<W<%!$QE%Y5eP&##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMs+(3,O9#h'!;$!oS%!]":B1@p!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ntilde
+Encoding: 241 241 241
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 113 8 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!/!<W<%!%_t/kPtS_##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[F5@:4V\rs'Bk#gNT/+93r&!->dX?!@920)ttP!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ograve
+Encoding: 242 242 242
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 120 8 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!/!<W<%!%_t/kPtS_##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!A8OPjD#T[FM^q]q<EaZh5J,tHKCkt%Q)#QV6nG`IgVb@C[V@!\1z8OZBBY!QNJ
+
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: oacute
+Encoding: 243 243 243
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 119 8 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!/!<W<%!%_t/kPtS_##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!@8OPjD#T[D_5/7.dEXX)_!K8.;Lc>JRr'/!drr<%h+UI*1'P_[h!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ocircumflex
+Encoding: 244 244 244
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 109 16 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!)!!!!;!<W<%!3k@A=9&=$##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!68OPjD#T[EZ@Ba1="2aXpG^qaZ!4:o%'<\+trVuou!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: otilde
+Encoding: 245 245 245
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 110 8 45 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!'!!!!7!<W<%!85kOO8o7\##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!78OPjD#T[F5@DEE"0UuSH",%Bt'`^#5"[U<Z[U0"7!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: odieresis
+Encoding: 246 246 246
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 114 4 33 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!/!<W<%!%!B7OoPI^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!;8OPjD#T[D_Dd\)?"u,iPLB32R!%u7I!!'#0#VYTOB"J$C!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: divide
+Encoding: 247 247 247
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 110 4 29 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!/!!!!-!<W<%!,,+KR/d3e##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!78OPjD#T[EZ@:0)0_`T'[n,\1r6i_Yp#OO]6JKY!n!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: oslash
+Encoding: 248 248 248
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 107 8 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!)!<W<%!;\PMo`+sl##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!48OPjD#T[EZB4(_6!s]AC/-5fNAd84Z(*D]>!!!!j78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ugrave
+Encoding: 249 249 249
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 100 14 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!%!<W<%!0]VU4TGH^##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!-8OPjD#T[FM^]9)h%gW9R*F5!hz8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uacute
+Encoding: 250 250 250
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 100 14 21 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!%!!!!#!<W<%!(CMg+92BA##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!-8OPjD#T[FM_!h@)"2k6!Trf8;z8OZBBY!QNJ
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ucircumflex
+Encoding: 251 251 251
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 127 4 37 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!.!!!!3!<W<%!4o#HE<#t=##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!H8OPjD#T[D_OC/&3"#*>T?iZo'+N2n46AHFD-k2,O(`7c/X;h5Ilit_1?.I$s!!!!j
+78?7R6=>BF
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 252
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 105 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!*!!!!-!<W<%!/cpChuE`W##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!28OPjD#T[FMcbKNKM%+\@!6,uca^7BeJ,fQL!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: yacute
+Encoding: 253 253 253
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 113 4 41 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!)!!!!-!<W<%!+euEh>dNU##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!:8OPjD#T[ERA#Nls%"uhi#\"kU_Z(&E!D$/p"!0Qh9E5%m!(fUS7'8jaJcGcN
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: thorn
+Encoding: 254 254 254
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 102 8 25 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!+!!!!)!<W<%!;\PMo`+sl##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!/8OPjD#T[FMIt.P=!W]1+%JcQC#H@b(!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+
+StartChar: ydieresis
+Encoding: 255 255 255
+Width: 36
+Flags: W
+LayerCount: 2
+Back
+Image2: image/png 98 34 -9 2 2
+M,6r;%14!\!!!!.8Ou6I!!!!"!!!!"!<W<%!%$B#aoDDA##Ium7IBI-J:N1"l!9n]!!!%A;GL-j
+5j$^2!!!!+8OPjD#T[D_!!!!#!!1Ee2<=f<!!#SZ:.26O@"J@Y
+EndImage2
+Fore
+Validated: 1
+EndChar
+EndChars
+EndSplineFont
